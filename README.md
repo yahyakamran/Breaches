@@ -7,4 +7,4 @@ This project is a social site sepacific for schools/colleges students.
 3.Dont tell schools officals about it.
 
 The purpose of making this thing is that students can express
-the flaw or pros of the institute in hich they are currently in.
+the flaw or pros of the institute in which they are currently in.
